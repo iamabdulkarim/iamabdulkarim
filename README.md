@@ -13,22 +13,17 @@
 
 <h2 align="center">📫 WHERE TO FIND ME</h2>
 <p align="center">
-    <a title="Facebook" href="https://facebook.com/mi.shajib1/">
+    <a title="Facebook" href="https://facebook.com/">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/mishajib/">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
-    <a title="Instagram" href="https://instagram.com/mi.shajib1/">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
-    </a>
-    <a title="Twitter" href="https://twitter.com/mishajib1">
+    <a title="Twitter" href="https://twitter.com">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
-    <a title="Youtube" href="https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube" />
-    </a>
-    <a title="Github" href="https://github.com/mishajib">
+    
+    <a title="Github" href="https://github.com/iamabdulkarim">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github" />
     </a>
     <a title="BitBucket" href="https://bitbucket.org/mishajib/">
