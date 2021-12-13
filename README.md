@@ -14,16 +14,16 @@
 <h2 align="center">📫 WHERE TO FIND ME</h2>
 <p align="center">
     <a title="Facebook" href="https://facebook.com/">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Abdul%20karim-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/mishajib/">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Abdul%20karim-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
     <a title="Twitter" href="https://twitter.com">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/-Abdul%20karim-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
     <a title="Github" href="https://github.com/iamabdulkarim">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/-Abdul%20karim-%23211F1F?style=flat-square&logo=github" />
     </a>
     <a title="BitBucket" href="https://bitbucket.org/mishajib/">
         <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
