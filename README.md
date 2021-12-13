@@ -9,6 +9,7 @@
 
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Vue.js, Web Dev, Laravel, DevOps & I enjoy learning new things. </br>
+- 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **JavaScript**, **Python** coding, data structures, and algorithms.
 
 
 ### Connect with me:
