@@ -19,7 +19,7 @@
     <a title="Facebook" href="https://facebook.com/">
         <img src="https://img.shields.io/badge/-Abdul%20karim-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
-    <a title="LinkedIn" href="https://www.linkedin.com/in/mishajib/">
+    <a title="LinkedIn" href="https://www.linkedin.com/in/abdul-karim/">
         <img src="https://img.shields.io/badge/-Abdul%20karim-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
     <a title="Twitter" href="https://twitter.com">
@@ -28,33 +28,14 @@
     <a title="Github" href="https://github.com/iamabdulkarim">
         <img src="https://img.shields.io/badge/-Abdul%20karim-%23211F1F?style=flat-square&logo=github" />
     </a>
-    <a title="BitBucket" href="https://bitbucket.org/mishajib/">
+    <a title="BitBucket" href="https://bitbucket.org/">
         <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
     </a>
     
 
 </p>
 
-### Connect with me:
 
-
-<a href="https://www.linkedin.com/in/abdul-karim/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:abdulkarim34.fk@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="http://dev.to">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<br />
 
 <br />
 
