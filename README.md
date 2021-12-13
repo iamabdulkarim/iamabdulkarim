@@ -22,7 +22,6 @@
     <a title="Twitter" href="https://twitter.com">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
-    
     <a title="Github" href="https://github.com/iamabdulkarim">
         <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github" />
     </a>
