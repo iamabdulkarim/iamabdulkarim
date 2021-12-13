@@ -13,8 +13,8 @@
 
 <h2 align="center">📫 WHERE TO FIND ME</h2>
 <p align="center">
-    <a title="Facebook" href="http://abdulkarim-portfolio.herokuapp.com/">
-        <img src="https://img.shields.io/badge/-Abdul%20karim%20portfolio-%233b5998?style=flat-square&color="05e64366" />
+    <a title="Protfolio" href="http://abdulkarim-portfolio.herokuapp.com/">
+        <img src="https://img.shields.io/badge/-Abdul%20karim%20portfolio-%233b5998?style=flat-square&color="#05e64366" />
     </a>
     <a title="Facebook" href="https://facebook.com/">
         <img src="https://img.shields.io/badge/-Abdul%20karim-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
