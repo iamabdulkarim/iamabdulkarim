@@ -1,4 +1,4 @@
-<img alt="GIF" src="https://github.com/iamabdulkarim/iamabdulkarim/blob/master/code.gif?raw=true" width="100" height="auto" />
+<p align="center"><img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" alt="Coder GIF" width="800" height="500"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Abdul karim!</h1> 
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
