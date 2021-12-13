@@ -14,7 +14,7 @@
 <h2 align="center">📫 WHERE TO FIND ME</h2>
 <p align="center">
     <a title="Facebook" href="https://facebook.com/">
-        <img src="https://img.shields.io/badge/-Abdul%20karim-%233b5998?style=flat-square&color="ffffff" />
+        <img src="https://img.shields.io/codacy/grade/abdulkarim/-Abdul%20karim-%233b5998?style=flat-square&color="ffffff" />
     </a>
     <a title="Facebook" href="https://facebook.com/">
         <img src="https://img.shields.io/badge/-Abdul%20karim-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
