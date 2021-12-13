@@ -14,6 +14,9 @@
 <h2 align="center">📫 WHERE TO FIND ME</h2>
 <p align="center">
     <a title="Facebook" href="https://facebook.com/">
+        <img src="https://img.shields.io/badge/-Abdul%20karim-%233b5998?style=flat-square&color="ffffff" />
+    </a>
+    <a title="Facebook" href="https://facebook.com/">
         <img src="https://img.shields.io/badge/-Abdul%20karim-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
     <a title="LinkedIn" href="https://www.linkedin.com/in/mishajib/">
@@ -28,9 +31,7 @@
     <a title="BitBucket" href="https://bitbucket.org/mishajib/">
         <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
     </a>
-    <a title="BitBucket" href="https://bitbucket.org/mishajib/">
-        <img src="https://img.shields.io/badge/-Abdul%20karim-%23211F1F?style=flat-square&logo=gmail" />
-    </a>
+    
 
 </p>
 
