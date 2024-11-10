@@ -9,11 +9,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdul Karim!</h1> 
 <h3 align="center">Software Engineer @CliqPack | Passionate About Crafting Efficient Code</h3>
 
-### About Me 🚀
 
-Here’s the updated "About Me" section with your preference included:
-
----
 
 ### About Me 🚀
 
