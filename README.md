@@ -1,6 +1,7 @@
 <p align="center">
+    https://github.com/iamabdulkarim/iamabdulkarim/blob/master/abdulkarimgithubrepositoris.png
     <img 
-        src="https://media.licdn.com/dms/image/v2/D5616AQGUhyduNNZwTQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721102916430?e=1734566400&v=beta&t=IS37vsGgqAj_MK7dN6HdhwnvgAsKOe2fEuUvV0N84jQ" 
+        src="https://github.com/iamabdulkarim/iamabdulkarim/blob/master/abdulkarimgithubrepositoris.png" 
         alt="Coder GIF" 
         style="border-radius: 15px; border: 2px solid #333; max-width: 100%; height: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
     />
