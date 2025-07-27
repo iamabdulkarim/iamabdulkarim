@@ -26,7 +26,7 @@ An Australian real-estate business automation tool, built with **Laravel**, **Re
 - **Event-Driven Architecture**: Employs custom Laravel packages and event-driven components for flexibility.
 - **Multi-Portal Access**: Three portals for property managers, owners, and tenants, catering to various business roles.
 
-[View Project](https://frontend-myday.cliqpack.com/)
+[View Project](https://app.cliqproperty.io/)
 
 ---
 
