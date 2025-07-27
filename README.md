@@ -1,17 +1,12 @@
 <p align="center">
     https://github.com/iamabdulkarim/iamabdulkarim/blob/master/abdulkarimgithubrepositoris.png
-    
     <img 
         src="https://github.com/iamabdulkarim/iamabdulkarim/blob/master/abdulkarimgithubrepositoris.png" 
         alt="Coder GIF" 
         style="border-radius: 15px; border: 2px solid #333; max-width: 100%; height: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
     />
-    <img 
-        src="https://github.com/iamabdulkarim/iamabdulkarim/blob/master/code.gif" 
-        alt="Coder GIF" 
-        style="border-radius: 15px; border: 2px solid #333; max-width: 100%; height: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
-    />
 </p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdul Karim!</h1> 
 <h3 align="center">Software Engineer @CliqPack | Passionate About Crafting Efficient Code</h3>
 
