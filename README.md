@@ -81,7 +81,7 @@ Responsive Design, Cross-Browser Compatibility
 
 Workflow:
 Git, GitHub, GitLab, Code Reviews, Release Planning
-
+```
 ## 🏗️ Current Work
 
 - B2B E-commerce systems (USA)  
