@@ -81,50 +81,61 @@ Responsive Design, Cross-Browser Compatibility
 
 Workflow:
 Git, GitHub, GitLab, Code Reviews, Release Planning
-🏗️ Current Work
-Building backend systems for B2B e-commerce platforms (USA)
-Developing Property Management Systems (Gaag2, PMSv2)
-Designing scalable APIs for high-traffic applications
-Optimizing performance, database queries, and backend processes
-Improving deployment pipelines using CI/CD
-Debugging and resolving production-level issues and bottlenecks
-📈 Featured Project
-🏢 MyDay / CliqProperty – SaaS Property Management Platform
 
-A scalable real estate automation system built with Laravel, React, AWS, MySQL, and Redis.
+## 🏗️ Current Work
 
-Key Features
-API-first backend architecture
-Event-driven system using Laravel Events & Listeners
-Redis caching for performance optimization
-Task automation using Laravel Scheduler
-Multi-tenant system for different user roles
-Architecture
-Modular Laravel architecture
-Microservices-ready backend
-AWS-based deployment (EC2, RDS, S3)
+- B2B E-commerce systems (USA)  
+- Property Management Systems (Gaag2, PMSv2)  
+- API development for high-traffic applications  
+- Performance optimization & CI/CD pipelines  
+
+---
+
+## 📈 Featured Project
+
+### 🏢 MyDay / CliqProperty
+
+Scalable SaaS platform built with **Laravel, React, AWS, MySQL, Redis**
+
+#### Highlights:
+- API-first architecture  
+- Event-driven backend  
+- Redis caching  
+- Multi-tenant system  
 
 🔗 https://app.cliqproperty.io/
 
-🛠️ Tech Stack
-Backend & Languages
-<p align="center"> <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> </p>
-Frontend
-<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </p>
-Database & Caching
-<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
-Cloud & DevOps
-<p align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white" /> </p>
-Tools & Testing
-<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/PHPUnit-6E4C13?style=for-the-badge" /> <img src="https://img.shields.io/badge/Xdebug-000000?style=for-the-badge" /> </p>
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamabdulkarim&show_icons=true&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdulkarim&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=iamabdulkarim&hide_border=true" /> </p>
-⚠️ Note
+---
 
-Most enterprise-level work is in private repositories due to company policies.
-Public repositories here demonstrate my coding standards, architecture, and development practices.
+## 🛠️ Tech Stack
 
-🤝 Connect
-LinkedIn: https://www.linkedin.com/in/iamabdulkarim/
-Office GitHub: https://github.com/abdulkarimsiscotek
-Personal GitHub: https://github.com/iamabdulkarim
+### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP%208-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+</p>
+
+### Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamabdulkarim&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdulkarim&layout=compact&hide_border=true" />
+</p>
